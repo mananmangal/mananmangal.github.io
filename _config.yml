@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: mananmangal.github.io
+title: Manan Mangal
+email: mmangal9@gmail.com
+author: Manan Mangal
+description: > # "Write an awesome description for your new site here. 
+  This is my website.
+copyright: 'Copyright &copy; 2019 Manan Mangal. All Rights Reserved.'
+credits: 'Credits: GitHub Pages and Jekyll'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/mananmangal
+  - title: linkedin
+    url: https://www.linkedin.com/in/mananmangal
